@@ -4,7 +4,8 @@ Holly Adams
 hadams30@pratt.edu
 Performance and Electronic Media 
 
-# A New Protocol to keep me from overthinking. To keep my emotions in check. To ask my computer to feel these feelings for me. To look for stability.
+
+#### A New Protocol to keep me from overthinking. To keep my emotions in check. To ask my computer to feel these feelings for me. To look for stability.
 
 A New Protocol uses ml5’s “long short-term memory” text generation to form sentences based on the diary-style text that I wrote and provided. The ml5 machine learning model is build with and trained on this personal information, learning the way I write, process, and communicate. In the input text I introduce difficult concepts and situations without finalizing solutions to these issues; my computer steps in to do the emotional heavy lifting. 
 
