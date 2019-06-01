@@ -19,6 +19,9 @@ A New Protocol uses ml5’s “long short-term memory” text generation to form
 
 _There are a series of commands to which the program will respond:_
 “Computer” enters a counter that releases gibberish on the first three counts, then responds by saying “How can I help you?”
+
 “Okay” resets the counter for tracking the word computer, and the computer responds with “Okay”
+
 Words that end with “ould” (would, could, should), the word “and,” and the word “to” sends the text that’s just been spoken into the text generator and completes a sentence according to this seed text; this completed response is spoken aloud. 
+
 “Enough” turns off the dictation.
