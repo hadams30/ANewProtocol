@@ -18,6 +18,7 @@ A New Protocol uses ml5’s “long short-term memory” text generation to form
 4. Toggle the jit.world button, and then the dictation button. 
 
 _There are a series of commands to which the program will respond:_
+
 “Computer” enters a counter that releases gibberish on the first three counts, then responds by saying “How can I help you?”
 
 “Okay” resets the counter for tracking the word computer, and the computer responds with “Okay”
