@@ -1,0 +1,53 @@
+/**color palette
+~#dbab00 mikado yello
+~#ff3638 misty rose
+~#fe5f55 sunset orange
+~#f7f28c flavescent
+~#FFFFFF white
+----------------------------**/
+
+/**global styles
+----------------------------**/
+body{
+    font-family: 'K2D', sans-serif;
+    background: #5d9afc;
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 110%;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+    color: #5d9afc;
+    display: block;
+    background: #ffffff;
+    font-weight: 900;
+    font-size: 25px;
+    font-family: 'K2D', sans-serif;
+    line-height: 115%;
+}
+h2{
+    text-align: left;
+    font-weight: 400;
+    padding-left:20px;
+    font-size: 50px;
+    font-family: 'K2D', sans-serif;
+    line-height: 100%
+}
+h3{
+    text-align: center;
+    color: #5d9afc;
+    display: block;
+    background: #ffffff;
+    font-weight: 100;
+    font-size: 20px;
+    font-family: 'K2D', sans-serif;
+    line-height: 150%;
+}
+p {
+    padding-left:20px;
+    color: #ffffff;
+}
+
+
